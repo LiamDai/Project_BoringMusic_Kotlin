@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="MediaItemList">
+        <item name="android:background">@color/mediaListBackground</item>
+        <item name="android:paddingBottom">2dp</item>
+        <item name="android:paddingEnd">3dp</item>
+        <item name="android:paddingStart">2dp</item>
+        <item name="android:paddingTop">2dp</item>
+    </style>
+</resources>
